@@ -16,8 +16,8 @@
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date? During the months of to July you have a higher chance to have a successful outcome.December is not a good month for a theater launch.
 
-- What can you conclude about the Outcomes based on Goals? About 33% of all plays fail. If the play has a goal of over $20,000 there is a higher chance of success.
+- What can you conclude about the Outcomes based on Goals? 50% of all plays fail. There is a higher chance of success if the goal is less than $5,000.
 
-- What are some limitations of this dataset? The amount of plays higher than $20,000 doesn't provide enough substantial data points to come to a conclusion as solidified as the other categories due to the total volume of plays conducted.
+- What are some limitations of this dataset?The amount of plays higher than 20,000 doesn't provide enough data points to be unbiased.
 
 - What are some other possible tables and/or graphs that we could create? Similar to outcomes by launch date, we could make a graph that shows which years have been more successful than others. Another interesting factor would be if we knew how long the plays went on for to determine their success.
